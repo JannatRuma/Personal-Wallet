@@ -2,7 +2,7 @@
 
 ***Project of CSE411: Personal Wallet***
 
-This Project is accomplished as Project Work of CSE411: Software Engineering & Information System.
+This Project is accomplished as Project Work of CSE411 (Software Engineering & Information System).
 
 ***Features***
 
